@@ -1,6 +1,4 @@
-# CS460 Web assignment Part1
-
-This web assignment part1 is making http 1.0 server, which can accept client connections and receive data.
+# HTTP 1.1 server
 
 ## About me
 
